@@ -1,0 +1,24 @@
+{
+  "name": "vite-monaco-vue2",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.15",
+    "vite-plugin-import": "^0.4.0",
+    "vite-plugin-require-transform": "^1.0.3",
+    "vite-plugin-vue2": "^1.9.3"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.8",
+    "axios": "^0.27.2",
+    "vue": "^2.7.8",
+    "vue-router": "^3.5.2",
+    "vue-template-compiler": "^2.7.8",
+    "vuex": "^3.6.2"
+  }
+}
