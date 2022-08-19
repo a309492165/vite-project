@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "sass": "^1.54.4",
+    "sass-loader": "^13.0.2",
     "vite": "^2.9.15",
     "vite-plugin-import": "^0.4.0",
     "vite-plugin-require-transform": "^1.0.3",

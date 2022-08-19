@@ -1,4 +1,4 @@
-提供了 vite + vue2 + vue-router + vuex + axios + ant-design-vue 的简单项目模板
+提供了 vite + vue2 + vue-router + vuex + axios + ant-design-vue + sass 的简单项目模板
 开箱即用
 
 

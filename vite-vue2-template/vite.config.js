@@ -54,5 +54,10 @@ export default () => defineConfig({
                 replacement: resolve('src')
             }
         ]
+    },
+    css: {
+        preprocessorOptions: {
+            scss: {}
+        }
     }
 })
